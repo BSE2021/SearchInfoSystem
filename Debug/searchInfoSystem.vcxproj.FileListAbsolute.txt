@@ -1,0 +1,2 @@
+C:\Users\092834\OneDrive - UP Education\Desktop\CS103\searchInfoSystem\Debug\searchInfoSystem.exe
+C:\Users\092834\OneDrive - UP Education\Desktop\CS103\searchInfoSystem\Debug\searchInfoSystem.pdb
